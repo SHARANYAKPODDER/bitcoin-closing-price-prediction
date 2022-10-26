@@ -1,4 +1,4 @@
-# bitcoinproject
+# bitcoin closing price prediction
 Bitcoin is a virtual currency created by Satoshi Nakamoto in 2008. Because of its revolutionary
 properties, transparency, simplicity, and growing acceptance, Bitcoin has become increasingly popular
 and used for financial transactions worldwide. The rising use of machine learning techniques to predict
